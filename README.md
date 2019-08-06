@@ -1,4 +1,4 @@
-# Jupyter Notebooks for Machine Learnings
+# Jupyter Notebooks for Machine Learning
 
 Source: Deep Learning with Python, Francois Chollet
 
