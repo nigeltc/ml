@@ -6,4 +6,4 @@ Source: Deep Learning with Python, Francois Chollet
 * NumPy - Introduction to NumPy
 * IMDB - IMDB example from Chapter 3
 * Reuters - Reuters example from Chapter 3
-
+* Boston - Boston house prices example from Chapter 3
