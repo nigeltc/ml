@@ -7,3 +7,4 @@ Source: Deep Learning with Python, Francois Chollet
 * IMDB - IMDB example from Chapter 3
 * Reuters - Reuters example from Chapter 3
 * Boston - Boston house prices example from Chapter 3
+* MNIST_CNN - MNIST Convnet example from Chapter 5
